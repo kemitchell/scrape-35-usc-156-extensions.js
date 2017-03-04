@@ -1,0 +1,21 @@
+{
+  "name": "scrape-35-usc-156-extensions",
+  "version": "0.0.0",
+  "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
+  "dependencies": {
+    "cheerio": "^0.22.0"
+  },
+  "devDependencies": {
+    "defence-cli": "^2.0.1",
+    "replace-require-self": "^1.1.1",
+    "tv4": "^1.2.7"
+  },
+  "files": [
+    "index.js"
+  ],
+  "license": "MIT",
+  "repository": "kemitchell/scrape-35-usc-156-extensions.js",
+  "scripts": {
+    "test": "defence README.md | replace-require-self | node"
+  }
+}
