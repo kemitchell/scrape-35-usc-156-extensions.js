@@ -18,6 +18,11 @@
   ],
   "license": "MIT",
   "repository": "kemitchell/scrape-35-usc-156-extensions.js",
+  "keywords": [
+    "USPTO",
+    "patent",
+    "scrape"
+  ],
   "scripts": {
     "test": "defence README.md | replace-require-self | node",
     "lint": "standard && standard-markdown"
