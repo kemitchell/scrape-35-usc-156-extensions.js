@@ -1,3 +1,5 @@
+[USPTO.gov: Patent Terms Extended Under 35 USC §156](https://www.uspto.gov/patent/laws-and-regulations/patent-term-extension/patent-terms-extended-under-35-usc-156)
+
 ```javascript
 var scrape = require('scrape-35-usc-156-extensions')
 var assert = require('assert')
