@@ -1,7 +1,7 @@
 {
   "name": "scrape-35-usc-156-extensions",
   "description": "scrape USPTO's list of patent terms extended under 35 USC 156",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
   "dependencies": {
     "cheerio": "^0.22.0"
